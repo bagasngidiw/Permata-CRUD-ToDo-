@@ -13,3 +13,6 @@ and then run "npm i" for each folder
 FE = npm run dev
 BE = npm start
 
+<!-- when the app is running -->
+please make atleast two categories
+
