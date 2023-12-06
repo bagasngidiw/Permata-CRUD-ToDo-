@@ -71,7 +71,6 @@ export function useTodoList() {
                     Authorization: `Bearer ${localStorage.token}`
                 }
             })
-            window.location.href ='/posts'
             fetchData()
         } catch (error) {
             console.error(error)
